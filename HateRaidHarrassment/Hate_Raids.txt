@@ -1,3 +1,4 @@
 ## Known for Hate Raids
+
 /ban fragilitys
 /ban foregathers
