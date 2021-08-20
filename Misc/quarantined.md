@@ -1,0 +1,31 @@
+Bot accounts we aren't sure of yet
+
+- Anotherttvviewer
+  - created January 3, 2019
+  - 761,330 views
+- Allroadsleadtothefarm
+  - August 11th, 2021
+  - 2,993 views
+- casinothanks
+  - 
+- extramoar
+  - 
+- Federicofeliny
+  - August 1st, 2021
+  - 933 views
+- Ftopayr
+  - 
+- icewizerds
+  - 
+- idknetz
+  - 
+- jointeffortt
+  - 
+- Sad_grl
+  - 
+- Socialfriends11
+  - 
+- violets_tv
+  - 
+- trump__won__
+  - 
