@@ -2,3 +2,4 @@
 
 /ban fragilitys
 /ban foregathers
+/ban 43m8yn1vzw
