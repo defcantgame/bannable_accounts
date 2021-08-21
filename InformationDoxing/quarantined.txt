@@ -1,6 +1,5 @@
 These accounts are currently being checked before added
 
-fragilitys
 /ban violets_tv
 /ban extramoar
 /ban SmallStreamersDCServer
