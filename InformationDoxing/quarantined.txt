@@ -83,10 +83,12 @@ These accounts are currently being checked before added
 /ban servres
 /ban stygian_styx
 /ban yamickle
-
-
-Allroadsleadtothefarm
-Anotherttvviewer
-Federicofeliny
-Seiiaaa
-DailyDayna
+/ban lunar_extensions
+/ban lunar_directory 
+/ban Allroadsleadtothefarm
+/ban Anotherttvviewer
+/ban Federicofeliny
+/ban Seiiaaa
+/ban DailyDayna
+/ban electricallongboard
+/ban GiaBc

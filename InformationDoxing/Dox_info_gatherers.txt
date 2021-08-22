@@ -107,3 +107,12 @@
 /ban servres
 /ban stygian_styx
 /ban yamickle
+/ban lunar_extensions
+/ban lunar_directory 
+/ban Allroadsleadtothefarm
+/ban Anotherttvviewer
+/ban Federicofeliny
+/ban Seiiaaa
+/ban DailyDayna
+/ban electricallongboard
+/ban GiaBc
