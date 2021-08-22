@@ -1,5 +1,7 @@
 These accounts are currently being checked before added
 
+To note if you see a suspicious account and see the live channel their page that they are hosting is something like electricallongboard with a "not a bot" user icon its associated with that bot and good to ban.
+
 /ban violets_tv
 /ban extramoar
 /ban SmallStreamersDCServer
