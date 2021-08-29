@@ -94,3 +94,4 @@ To note if you see a suspicious account and see the live channel their page that
 /ban DailyDayna
 /ban electricallongboard
 /ban GiaBc
+/ban dooFX

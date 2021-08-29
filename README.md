@@ -9,3 +9,8 @@ Because of this ongoing issue and lack of tools around on Twitch to remedy this 
 
 ## Working on
 I am currently working on finishing a quick script that will automatically send each username to your stream and ban them. If support for this is big enough and requested then a website tool can be made in the future to further help everyone.
+
+
+## Things to look out for
+- if you seen an account that has an actual profile picture some followers but doesnt have any vods, clips, never live and has "electricallongboard" which has a pfp icon Not A Bot then its an account you can ban.
+  - chances are its a compromised account that is used to host the initial bot account and draw more people in cause it "looks legit"
