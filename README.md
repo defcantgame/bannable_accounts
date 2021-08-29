@@ -1,4 +1,6 @@
 # bannable_accounts
+This repo is meant to be a place to report the bot accounts and help give you and idea of the naming conventions you may see as they will likely change. In the future I am working on building scripts to try to help you with active response on these kinds of attacks and automate the banning.
+
 
 # Introduction
 Sadly streaming and content creation has become a target for malicious activity. People being doxed and hate raided. What is hate raiding? [TheVerge](https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters#:~:text=In%20hate%20raids%2C%20a%20streamer,with%20hate%20speech%20and%20harassment.)
