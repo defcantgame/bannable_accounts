@@ -116,3 +116,4 @@
 /ban DailyDayna
 /ban electricallongboard
 /ban GiaBc
+/ban Wofflestoffle
