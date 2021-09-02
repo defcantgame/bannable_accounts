@@ -146,3 +146,5 @@
 /ban animozi
 /ban shypuf
 /ban core_core_core (the new thetwitchauthority)
+/ban JudgeJudySIayer 
+/ban Cqart
