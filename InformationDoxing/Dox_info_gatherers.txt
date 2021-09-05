@@ -1,429 +1,430 @@
-/ban thetwitchauthority
-/ban clickonmeplease5
-/ban clickonmeplease4
-/ban clickonmeplease3
-/ban clickonmeplease2
-/ban clickonmeplease
-/ban night_shell
-/ban xqcmate
-/ban rememberlunasec
-/ban dexiphp
-/ban ttaproxy
-/ban clickonmeplease6
-/ban zenmatevpn
-/ban maujior
-/ban twitchauthority2
-/ban vvvmanolia
-/ban vvvvmanolia
-/ban vmanolia
-/ban twitch_test_raid
-/ban twitch_test_raid2
-/ban temp_account131
-/ban strwbrioss
-/ban twitchtwitchtwitchx3
-/ban masosfan
-/ban golag_ontop
-/ban remove_hostratelimit
-/ban pawnlam
-/ban vvmanolia
-/ban night_php_lunasec
-/ban manolia_meow
-/ban violets_tv
-/ban extramoar
-/ban SmallStreamersDCServer
-/ban manage_me
-/ban 404_preview
-/ban Temp_account131
-/ban Ddatapb34
-/ban Ddatapc34
-/ban Delteerdatap34
-/ban golang_ontop
-/ban clickonmeplease7
-/ban TheTwitchAuthority_E0244
-/ban winsteno
-/ban molsonfl
-/ban no_id_uh
-/ban Fvmh97c
-/ban socialfriends11
-/ban Smallsteramersdcserver
-/ban 0x81_XML
-/ban 2600_6c5e_5b7f_fdcd_venom
-/ban 2603_6000_ba07_8c751_cc60
-/ban shell_upload_php
-/ban 1111111111111115
-/ban 0x25E
-/ban TheTwitchAuthority2
-/ban 0x45
-/ban night_php
-/ban ddatapb9
-/ban ddatapc9
-/ban delteerdatap9
-/ban panda_man2123
-/ban yes_please_ok
-/ban thelurxxer
-/ban emotexbot
-/ban carbon14xyz
-/ban carbob14xyz
-/ban carbot14xyz
-/ban twitchdetails
-/ban 1174
-/ban discord_for_streamers
-/ban exxxbot
-/ban disc0rdforsma11streamers
-/ban social_growth_discord
-/ban d1sc0rdforsmallstreamers
-/ban pboj
-/ban jd1d
-/ban sad_grl
-/ban gametrendanalytics
-/ban rivkamichaeli1
-/ban stormpostor
-/ban Academyimpossible
-/ban bingcortana
-/ban havethis2
-/ban Zenmatevpn
-/ban phpshit
-/ban ox45e
-/ban 0x45e_banned
-/ban 0x45e_tta
-/ban 870179692248961058
-/ban 0x45e_twitchsucks
-/ban aitorki_24
-/ban omegajeppe
-/ban d4rk_5ky
-/ban d4rk_5kyhow
-/ban public_enemy821
-/ban servres
-/ban stygian_styx
-/ban yamickle
-/ban lunar_extensions
-/ban lunar_directory 
-/ban Allroadsleadtothefarm
-/ban Anotherttvviewer
-/ban Federicofeliny
-/ban Seiiaaa
-/ban electricallongboard
-/ban GiaBc
-/ban Wofflestoffle
-/ban wave1outof10
-/ban 869833518434357289
-/ban twitch_setup_tool
-/ban ily_dogs
-/ban ily_shiba 
-/ban AlexiaXo
-/ban aiexiaxo
-/ban 2620_7_6001__fff3_c759
-/ban schmidoof
-/ban moisonfl
-/ban MrTrollge
-/ban zfurkannn
-/ban 0x45e_xml
-/ban shell_access
-/ban 0x45D
-/ban LunaBotAS
-/ban lunabanned 
-/ban lunarlunarlunarlunar
-/ban thetwitchauthority_lunar
-/ban mr_lightyman
-/ban 0x45e
-/ban lunar_ipv4
-/ban Manolia_kaat
-/ban Manolia_lunar
-/ban Manolia_life
-/ban Manolia_403
-/ban Lunar_was_here
-/ban Theemoeffecttv
-/ban rekmux
-/ban 1nittogether
-/ban dankrit
-/ban frw33d
-/ban moopshark
-/ban animozi
-/ban shypuf
-/ban core_core_core
-/ban JudgeJudySIayer 
-/ban Cqart
-/ban 0tothepowerof0 
-/ban 007_bad_girl 
-/ban 2020 
-/ban abaaaaaaaaaaaaaaaa 
-/ban abbottcostello 
-/ban abeut 
-/ban alexratman 
-/ban alfredhitchco 
-/ban aliengathering 
-/ban alonmizrhai 
-/ban anglefir 
-/ban antoni_jastrzab 
-/ban aten 
-/ban attentionseekr 
-/ban ball857 
-/ban bear_wit_me 
-/ban betaviews 
-/ban billiewilder 
-/ban bloodlustr 
-/ban bongbar 
-/ban bostonbully32 
-/ban business_daddy 
-/ban buvit 
-/ban caparisoned  
-/ban castro1825 
-/ban catcold 
-/ban centenarys 
-/ban chaimrevivo 
-/ban charwomans 
-/ban chat_fantastic 
-/ban claire_sir_chistory 
-/ban cloistering 
-/ban coauthoring 
-/ban cqart 
-/ban cubtree 
-/ban d4rk_5how  
-/ban ddatapb15 
-/ban ddatapc13 
-/ban demimad 
-/ban dirty_giri 
-/ban dmrontv 
-/ban dmr__tv 
-/ban doofx 
-/ban doubleslitxxxperiment 
-/ban droopdoggg 
-/ban ehrabz 
-/ban entryphones 
-/ban epigraphys 
-/ban eqluv 
-/ban eveab 
-/ban expatiation 
-/ban expressways 
-/ban eyalberkovitz 
-/ban farminggurl 
-/ban fastdeb 
-/ban federicofeliny 
-/ban feet 
-/ban fixloven 
-/ban fondc  
-/ban forfeitures 
-/ban freaky_yolo_nr1 
-/ban friend_request_me 
-/ban ftopayr 
-/ban fvmh97c 
-/ban galqt 
-/ban gg_bro_u_u 
-/ban giabc 
-/ban gowithhim 
-/ban guerilla_hoarfare 
-/ban h0ss00312 
-/ban hanavg 
-/ban handsup_sir 
-/ban hapye 
-/ban hentyechan 
-/ban hit_me_babe 
-/ban hoss0031 
-/ban hoss00310 
-/ban hoss00311 
-/ban hoss00312_ 
-/ban hoss00312__ 
-/ban hoss00314 
-/ban hoss00315 
-/ban hoss00320 
-/ban hoss00321 
-/ban hoss00322 
-/ban hoss00323 
-/ban hoss00812 
-/ban hoss0312 
-/ban hossoo312 
-/ban hotgirlfromcali 
-/ban hotgirlfromoregon 
-/ban icewizerds 
-/ban imdamermaidqueen 
-/ban inaqt 
-/ban industrialparasite 
-/ban itsvodoo 
-/ban itzikkorenfine 
-/ban ivyaf 
-/ban janenv 
-/ban jilae 
-/ban jointeffortt 
-/ban just_in_chat 
-/ban kittenrescue 
-/ban koninazz 
-/ban lowtik 
-/ban lucnardo 
-/ban makimfh 
-/ban manitoxdlm 
-/ban manning_wilkins 
-/ban manoliattv 
-/ban martinscorces 
-/ban metaforick 
-/ban minecool_yt 
-/ban mrdestructbot 
-/ban mslenity 
-/ban newolk69 
-/ban ooo_star_ooo 
-/ban oozebrood 
-/ban orsonw 
-/ban orthoduk 
-/ban pagtooth 
-/ban pawlina93 
-/ban peculiarasmr 
-/ban pellege 
-/ban queechy 
-/ban quentinterentino 
-/ban ra1denz 
-/ban reach_affiliate 
-/ban redsoxrbest 
-/ban redtailfoxxyy 
-/ban reuvenatar 
-/ban rimastino 
-/ban roastedify 
-/ban ronenharazi 
-/ban ronyrozental 
-/ban sashimisim 
-/ban sfdfhdhdh45 
-/ban shlomosharf 
-/ban simonedeboudoir 
-/ban smallsteramersdcserver 
-/ban smallstreamersdcserver 
-/ban spiketrapclair 
-/ban ssakdook 
-/ban stankubrick 
-/ban stevenspielber 
-/ban streamersareadc 
-/ban streamersnetworkunited 
-/ban tawmtawmz 
-/ban thursly 
-/ban tizcloud 
-/ban totallynottye 
-/ban tv_d4rk_5how 
-/ban twitchnetworkdiscord 
-/ban uor_ds_research 
-/ban usadapekora_holoiive 
-/ban vaticancitymagoo 
-/ban verynaughtywifenextdoor 
-/ban virgoproz 
-/ban v_and_k 
-/ban waptart 
-/ban wpfid5555 
-/ban wreckinggod 
-/ban xohatsumi 
-/ban xokocodo 
-/ban xxdarcksolxx 
-/ban yekunidem 
-/ban yubother 
-/ban zladk0 
-/ban ddatapb1 
-/ban ddatapb2 
-/ban ddatapb3 
-/ban ddatapb4 
-/ban ddatapb5 
-/ban ddatapb6 
-/ban ddatapb7 
-/ban ddatapb8 
-/ban ddatapb10 
-/ban ddatapb11 
-/ban ddatapb12 
-/ban ddatapb13 
-/ban ddatapb14 
-/ban ddatapb16 
-/ban ddatapb17 
-/ban ddatapb18 
-/ban ddatapb19 
-/ban ddatapb20 
-/ban ddatapb21 
-/ban ddatapb22 
-/ban ddatapb23 
-/ban ddatapb24 
-/ban ddatapb25 
-/ban ddatapb26 
-/ban ddatapb27 
-/ban ddatapb28 
-/ban ddatapb29 
-/ban ddatapb30 
-/ban ddatapb31 
-/ban ddatapb32 
-/ban ddatapb33 
-/ban ddatapb34 
-/ban ddatapb35 
-/ban ddatapb36 
-/ban ddatapb37 
-/ban ddatapb38 
-/ban ddatapb39 
-/ban ddatapb40 
-/ban ddatapc1 
-/ban ddatapc2 
-/ban ddatapc3 
-/ban ddatapc4 
-/ban ddatapc5 
-/ban ddatapc6 
-/ban ddatapc7 
-/ban ddatapc8 
-/ban ddatapc10 
-/ban ddatapc11 
-/ban ddatapc12 
-/ban ddatapc14 
-/ban ddatapc15 
-/ban ddatapc16 
-/ban ddatapc17 
-/ban ddatapc18 
-/ban ddatapc19 
-/ban ddatapc20 
-/ban ddatapc21 
-/ban ddatapc22 
-/ban ddatapc23 
-/ban ddatapc24 
-/ban ddatapc25 
-/ban ddatapc26 
-/ban ddatapc27 
-/ban ddatapc28 
-/ban ddatapc29 
-/ban ddatapc30 
-/ban ddatapc31 
-/ban ddatapc32 
-/ban ddatapc33 
-/ban ddatapc34 
-/ban ddatapc35 
-/ban ddatapc36 
-/ban ddatapc37 
-/ban ddatapc38 
-/ban ddatapc39 
-/ban ddatapc40 
-/ban delteerdatapc 
-/ban delteerdatap1 
-/ban delteerdatap2 
-/ban delteerdatap3 
-/ban delteerdatap4 
-/ban delteerdatap5 
-/ban delteerdatap6 
-/ban delteerdatap7 
-/ban delteerdatap8 
-/ban delteerdatap10 
-/ban delteerdatap11 
-/ban delteerdatap12 
-/ban delteerdatap13 
-/ban delteerdatap14 
-/ban delteerdatap15 
-/ban delteerdatap16 
-/ban delteerdatap17 
-/ban delteerdatap18 
-/ban delteerdatap19 
-/ban delteerdatap20 
-/ban delteerdatap21 
-/ban delteerdatap22 
-/ban delteerdatap23 
-/ban delteerdatap24 
-/ban delteerdatap25 
-/ban delteerdatap26 
-/ban delteerdatap27 
-/ban delteerdatap28 
-/ban delteerdatap29 
-/ban delteerdatap30 
-/ban delteerdatap31 
-/ban delteerdatap32 
-/ban delteerdatap33 
-/ban delteerdatap34 
-/ban delteerdatap35 
-/ban delteerdatap36 
-/ban delteerdatap37 
-/ban delteerdatap38 
-/ban delteerdatap39 
-/ban delteerdatap40 
+/ban thetwitchauthority DOXING BOTS
+/ban clickonmeplease5 DOXING BOTS
+/ban clickonmeplease4 DOXING BOTS
+/ban clickonmeplease3 DOXING BOTS
+/ban clickonmeplease2 DOXING BOTS
+/ban clickonmeplease DOXING BOTS
+/ban night_shell DOXING BOTS
+/ban xqcmate DOXING BOTS
+/ban rememberlunasec DOXING BOTS
+/ban dexiphp DOXING BOTS
+/ban ttaproxy DOXING BOTS
+/ban clickonmeplease6 DOXING BOTS
+/ban zenmatevpn DOXING BOTS
+/ban maujior DOXING BOTS
+/ban twitchauthority2 DOXING BOTS
+/ban vvvmanolia DOXING BOTS
+/ban vvvvmanolia DOXING BOTS
+/ban vmanolia DOXING BOTS
+/ban twitch_test_raid DOXING BOTS
+/ban twitch_test_raid2 DOXING BOTS
+/ban temp_account131 DOXING BOTS
+/ban strwbrioss DOXING BOTS
+/ban twitchtwitchtwitchx3 DOXING BOTS
+/ban masosfan DOXING BOTS
+/ban golag_ontop DOXING BOTS
+/ban remove_hostratelimit DOXING BOTS
+/ban pawnlam DOXING BOTS
+/ban vvmanolia DOXING BOTS
+/ban night_php_lunasec DOXING BOTS
+/ban manolia_meow DOXING BOTS
+/ban violets_tv DOXING BOTS
+/ban extramoar DOXING BOTS
+/ban SmallStreamersDCServer DOXING BOTS
+/ban manage_me DOXING BOTS
+/ban 404_preview DOXING BOTS
+/ban Temp_account131 DOXING BOTS
+/ban Ddatapb34 DOXING BOTS
+/ban Ddatapc34 DOXING BOTS
+/ban Delteerdatap34 DOXING BOTS
+/ban golang_ontop DOXING BOTS
+/ban clickonmeplease7 DOXING BOTS
+/ban TheTwitchAuthority_E0244 DOXING BOTS
+/ban winsteno DOXING BOTS
+/ban molsonfl DOXING BOTS
+/ban no_id_uh DOXING BOTS
+/ban Fvmh97c DOXING BOTS
+/ban socialfriends11 DOXING BOTS
+/ban Smallsteramersdcserver DOXING BOTS
+/ban 0x81_XML DOXING BOTS
+/ban 2600_6c5e_5b7f_fdcd_venom DOXING BOTS
+/ban 2603_6000_ba07_8c751_cc60 DOXING BOTS
+/ban shell_upload_php DOXING BOTS
+/ban 1111111111111115 DOXING BOTS
+/ban 0x25E DOXING BOTS
+/ban TheTwitchAuthority2 DOXING BOTS
+/ban 0x45 DOXING BOTS
+/ban night_php DOXING BOTS
+/ban ddatapb9 DOXING BOTS
+/ban ddatapc9 DOXING BOTS
+/ban delteerdatap9 DOXING BOTS
+/ban panda_man2123 DOXING BOTS
+/ban yes_please_ok DOXING BOTS
+/ban thelurxxer DOXING BOTS
+/ban emotexbot DOXING BOTS
+/ban carbon14xyz DOXING BOTS
+/ban carbob14xyz DOXING BOTS
+/ban carbot14xyz DOXING BOTS
+/ban twitchdetails DOXING BOTS
+/ban 1174 DOXING BOTS
+/ban discord_for_streamers DOXING BOTS
+/ban exxxbot DOXING BOTS
+/ban disc0rdforsma11streamers DOXING BOTS
+/ban social_growth_discord DOXING BOTS
+/ban d1sc0rdforsmallstreamers DOXING BOTS
+/ban pboj DOXING BOTS
+/ban jd1d DOXING BOTS
+/ban sad_grl DOXING BOTS
+/ban gametrendanalytics DOXING BOTS
+/ban rivkamichaeli1 DOXING BOTS
+/ban stormpostor DOXING BOTS
+/ban Academyimpossible DOXING BOTS
+/ban bingcortana DOXING BOTS
+/ban havethis2 DOXING BOTS
+/ban Zenmatevpn DOXING BOTS
+/ban phpshit DOXING BOTS
+/ban ox45e DOXING BOTS
+/ban 0x45e_banned DOXING BOTS
+/ban 0x45e_tta DOXING BOTS
+/ban 870179692248961058 DOXING BOTS
+/ban 0x45e_twitchsucks DOXING BOTS
+/ban aitorki_24 DOXING BOTS
+/ban omegajeppe DOXING BOTS
+/ban d4rk_5ky DOXING BOTS
+/ban d4rk_5kyhow DOXING BOTS
+/ban public_enemy821 DOXING BOTS
+/ban servres DOXING BOTS
+/ban stygian_styx DOXING BOTS
+/ban yamickle DOXING BOTS
+/ban lunar_extensions DOXING BOTS
+/ban lunar_directory DOXING BOTS
+/ban Allroadsleadtothefarm DOXING BOTS
+/ban Anotherttvviewer DOXING BOTS
+/ban Federicofeliny DOXING BOTS
+/ban Seiiaaa DOXING BOTS
+/ban electricallongboard DOXING BOTS
+/ban GiaBc DOXING BOTS
+/ban Wofflestoffle DOXING BOTS
+/ban wave1outof10 DOXING BOTS
+/ban 869833518434357289 DOXING BOTS
+/ban twitch_setup_tool DOXING BOTS
+/ban ily_dogs DOXING BOTS
+/ban ily_shiba DOXING BOTS
+/ban AlexiaXo DOXING BOTS
+/ban aiexiaxo DOXING BOTS
+/ban 2620_7_6001__fff3_c759 DOXING BOTS
+/ban schmidoof DOXING BOTS
+/ban moisonfl DOXING BOTS
+/ban MrTrollge DOXING BOTS
+/ban zfurkannn DOXING BOTS
+/ban 0x45e_xml DOXING BOTS
+/ban shell_access DOXING BOTS
+/ban 0x45D DOXING BOTS
+/ban LunaBotAS DOXING BOTS
+/ban lunabanned DOXING BOTS
+/ban lunarlunarlunarlunar DOXING BOTS
+/ban thetwitchauthority_lunar DOXING BOTS
+/ban mr_lightyman DOXING BOTS
+/ban 0x45e DOXING BOTS
+/ban lunar_ipv4 DOXING BOTS
+/ban Manolia_kaat DOXING BOTS
+/ban Manolia_lunar DOXING BOTS
+/ban Manolia_life DOXING BOTS
+/ban Manolia_403 DOXING BOTS
+/ban Lunar_was_here DOXING BOTS
+/ban Theemoeffecttv DOXING BOTS
+/ban rekmux DOXING BOTS
+/ban 1nittogether DOXING BOTS
+/ban dankrit DOXING BOTS
+/ban frw33d DOXING BOTS
+/ban moopshark DOXING BOTS
+/ban animozi DOXING BOTS
+/ban shypuf DOXING BOTS
+/ban core_core_core DOXING BOTS
+/ban JudgeJudySIayer DOXING BOTS
+/ban Cqart DOXING BOTS
+/ban 0tothepowerof0 DOXING BOTS
+/ban 007_bad_girl DOXING BOTS
+/ban 2020 DOXING BOTS
+/ban abaaaaaaaaaaaaaaaa DOXING BOTS
+/ban abbottcostello DOXING BOTS
+/ban abeut DOXING BOTS
+/ban alexratman DOXING BOTS
+/ban alfredhitchco DOXING BOTS
+/ban aliengathering DOXING BOTS
+/ban alonmizrhai DOXING BOTS
+/ban anglefir DOXING BOTS
+/ban antoni_jastrzab DOXING BOTS
+/ban aten DOXING BOTS
+/ban attentionseekr DOXING BOTS
+/ban ball857 DOXING BOTS
+/ban bear_wit_me DOXING BOTS
+/ban betaviews DOXING BOTS
+/ban billiewilder DOXING BOTS
+/ban bloodlustr DOXING BOTS
+/ban bongbar DOXING BOTS
+/ban bostonbully32 DOXING BOTS
+/ban business_daddy DOXING BOTS
+/ban buvit DOXING BOTS
+/ban caparisoned  DOXING BOTS
+/ban castro1825 DOXING BOTS
+/ban catcold DOXING BOTS
+/ban centenarys DOXING BOTS
+/ban chaimrevivo DOXING BOTS
+/ban charwomans DOXING BOTS
+/ban chat_fantastic DOXING BOTS
+/ban claire_sir_chistory DOXING BOTS
+/ban cloistering DOXING BOTS
+/ban coauthoring DOXING BOTS
+/ban cqart DOXING BOTS
+/ban cubtree DOXING BOTS
+/ban d4rk_5how  DOXING BOTS
+/ban ddatapb15 DOXING BOTS
+/ban ddatapc13 DOXING BOTS
+/ban demimad DOXING BOTS
+/ban dirty_giri DOXING BOTS
+/ban dmrontv DOXING BOTS
+/ban dmr__tv DOXING BOTS
+/ban doofx DOXING BOTS
+/ban doubleslitxxxperiment DOXING BOTS
+/ban droopdoggg DOXING BOTS
+/ban ehrabz DOXING BOTS
+/ban entryphones DOXING BOTS
+/ban epigraphys DOXING BOTS
+/ban eqluv DOXING BOTS
+/ban eveab DOXING BOTS
+/ban expatiation DOXING BOTS
+/ban expressways DOXING BOTS
+/ban eyalberkovitz DOXING BOTS
+/ban farminggurl DOXING BOTS
+/ban fastdeb DOXING BOTS
+/ban federicofeliny DOXING BOTS
+/ban feet DOXING BOTS
+/ban fixloven DOXING BOTS
+/ban fondc  DOXING BOTS
+/ban forfeitures DOXING BOTS
+/ban freaky_yolo_nr1 DOXING BOTS
+/ban friend_request_me DOXING BOTS
+/ban ftopayr DOXING BOTS
+/ban fvmh97c DOXING BOTS
+/ban galqt DOXING BOTS
+/ban gg_bro_u_u DOXING BOTS
+/ban giabc DOXING BOTS
+/ban gowithhim DOXING BOTS
+/ban guerilla_hoarfare DOXING BOTS
+/ban h0ss00312 DOXING BOTS
+/ban hanavg DOXING BOTS
+/ban handsup_sir DOXING BOTS
+/ban hapye DOXING BOTS
+/ban hentyechan DOXING BOTS
+/ban hit_me_babe DOXING BOTS
+/ban hoss0031 DOXING BOTS
+/ban hoss00310 DOXING BOTS
+/ban hoss00311 DOXING BOTS
+/ban hoss00312_ DOXING BOTS
+/ban hoss00312__ DOXING BOTS
+/ban hoss00314 DOXING BOTS
+/ban hoss00315 DOXING BOTS
+/ban hoss00320 DOXING BOTS
+/ban hoss00321 DOXING BOTS
+/ban hoss00322 DOXING BOTS
+/ban hoss00323 DOXING BOTS
+/ban hoss00812 DOXING BOTS
+/ban hoss0312 DOXING BOTS
+/ban hossoo312 DOXING BOTS
+/ban hotgirlfromcali DOXING BOTS
+/ban hotgirlfromoregon DOXING BOTS
+/ban icewizerds DOXING BOTS
+/ban imdamermaidqueen DOXING BOTS
+/ban inaqt DOXING BOTS
+/ban industrialparasite DOXING BOTS
+/ban itsvodoo DOXING BOTS
+/ban itzikkorenfine DOXING BOTS
+/ban ivyaf DOXING BOTS
+/ban janenv DOXING BOTS
+/ban jilae DOXING BOTS
+/ban jointeffortt DOXING BOTS
+/ban just_in_chat DOXING BOTS
+/ban kittenrescue DOXING BOTS
+/ban koninazz DOXING BOTS
+/ban lowtik DOXING BOTS
+/ban lucnardo DOXING BOTS
+/ban makimfh DOXING BOTS
+/ban manitoxdlm DOXING BOTS
+/ban manning_wilkins DOXING BOTS
+/ban manoliattv DOXING BOTS
+/ban martinscorces DOXING BOTS
+/ban metaforick DOXING BOTS
+/ban minecool_yt DOXING BOTS
+/ban mrdestructbot DOXING BOTS
+/ban mslenity DOXING BOTS
+/ban newolk69 DOXING BOTS
+/ban ooo_star_ooo DOXING BOTS
+/ban oozebrood DOXING BOTS
+/ban orsonw DOXING BOTS
+/ban orthoduk DOXING BOTS
+/ban pagtooth DOXING BOTS
+/ban pawlina93 DOXING BOTS
+/ban peculiarasmr DOXING BOTS
+/ban pellege DOXING BOTS
+/ban queechy DOXING BOTS
+/ban quentinterentino DOXING BOTS
+/ban ra1denz DOXING BOTS
+/ban reach_affiliate DOXING BOTS
+/ban redsoxrbest DOXING BOTS
+/ban redtailfoxxyy DOXING BOTS
+/ban reuvenatar DOXING BOTS
+/ban rimastino DOXING BOTS
+/ban roastedify DOXING BOTS
+/ban ronenharazi DOXING BOTS
+/ban ronyrozental DOXING BOTS
+/ban sashimisim DOXING BOTS
+/ban sfdfhdhdh45 DOXING BOTS
+/ban shlomosharf DOXING BOTS
+/ban simonedeboudoir DOXING BOTS
+/ban smallsteramersdcserver DOXING BOTS
+/ban smallstreamersdcserver DOXING BOTS
+/ban spiketrapclair DOXING BOTS
+/ban ssakdook DOXING BOTS
+/ban stankubrick DOXING BOTS
+/ban stevenspielber DOXING BOTS
+/ban streamersareadc DOXING BOTS
+/ban streamersnetworkunited DOXING BOTS
+/ban tawmtawmz DOXING BOTS
+/ban thursly DOXING BOTS
+/ban tizcloud DOXING BOTS
+/ban totallynottye DOXING BOTS
+/ban tv_d4rk_5how DOXING BOTS
+/ban twitchnetworkdiscord DOXING BOTS
+/ban uor_ds_research DOXING BOTS
+/ban usadapekora_holoiive DOXING BOTS
+/ban vaticancitymagoo DOXING BOTS
+/ban verynaughtywifenextdoor DOXING BOTS
+/ban virgoproz DOXING BOTS
+/ban v_and_k DOXING BOTS
+/ban waptart DOXING BOTS
+/ban wpfid5555 DOXING BOTS
+/ban wreckinggod DOXING BOTS
+/ban xohatsumi DOXING BOTS
+/ban xokocodo DOXING BOTS
+/ban xxdarcksolxx DOXING BOTS
+/ban yekunidem DOXING BOTS
+/ban yubother DOXING BOTS
+/ban zladk0 DOXING BOTS
+/ban ddatapb1 DOXING BOTS
+/ban ddatapb2 DOXING BOTS
+/ban ddatapb3 DOXING BOTS
+/ban ddatapb4 DOXING BOTS
+/ban ddatapb5 DOXING BOTS
+/ban ddatapb6 DOXING BOTS
+/ban ddatapb7 DOXING BOTS
+/ban ddatapb8 DOXING BOTS
+/ban ddatapb10 DOXING BOTS
+/ban ddatapb11 DOXING BOTS
+/ban ddatapb12 DOXING BOTS
+/ban ddatapb13 DOXING BOTS
+/ban ddatapb14 DOXING BOTS
+/ban ddatapb16 DOXING BOTS
+/ban ddatapb17 DOXING BOTS
+/ban ddatapb18 DOXING BOTS
+/ban ddatapb19 DOXING BOTS
+/ban ddatapb20 DOXING BOTS
+/ban ddatapb21 DOXING BOTS
+/ban ddatapb22 DOXING BOTS
+/ban ddatapb23 DOXING BOTS
+/ban ddatapb24 DOXING BOTS
+/ban ddatapb25 DOXING BOTS
+/ban ddatapb26 DOXING BOTS
+/ban ddatapb27 DOXING BOTS
+/ban ddatapb28 DOXING BOTS
+/ban ddatapb29 DOXING BOTS
+/ban ddatapb30 DOXING BOTS
+/ban ddatapb31 DOXING BOTS
+/ban ddatapb32 DOXING BOTS
+/ban ddatapb33 DOXING BOTS
+/ban ddatapb34 DOXING BOTS
+/ban ddatapb35 DOXING BOTS
+/ban ddatapb36 DOXING BOTS
+/ban ddatapb37 DOXING BOTS
+/ban ddatapb38 DOXING BOTS
+/ban ddatapb39 DOXING BOTS
+/ban ddatapb40 DOXING BOTS
+/ban ddatapc1 DOXING BOTS
+/ban ddatapc2 DOXING BOTS
+/ban ddatapc3 DOXING BOTS
+/ban ddatapc4 DOXING BOTS
+/ban ddatapc5 DOXING BOTS
+/ban ddatapc6 DOXING BOTS
+/ban ddatapc7 DOXING BOTS
+/ban ddatapc8 DOXING BOTS
+/ban ddatapc10 DOXING BOTS
+/ban ddatapc11 DOXING BOTS
+/ban ddatapc12 DOXING BOTS
+/ban ddatapc14 DOXING BOTS
+/ban ddatapc15 DOXING BOTS
+/ban ddatapc16 DOXING BOTS
+/ban ddatapc17 DOXING BOTS
+/ban ddatapc18 DOXING BOTS
+/ban ddatapc19 DOXING BOTS
+/ban ddatapc20 DOXING BOTS
+/ban ddatapc21 DOXING BOTS
+/ban ddatapc22 DOXING BOTS
+/ban ddatapc23 DOXING BOTS
+/ban ddatapc24 DOXING BOTS
+/ban ddatapc25 DOXING BOTS
+/ban ddatapc26 DOXING BOTS
+/ban ddatapc27 DOXING BOTS
+/ban ddatapc28 DOXING BOTS
+/ban ddatapc29 DOXING BOTS
+/ban ddatapc30 DOXING BOTS
+/ban ddatapc31 DOXING BOTS
+/ban ddatapc32 DOXING BOTS
+/ban ddatapc33 DOXING BOTS
+/ban ddatapc34 DOXING BOTS
+/ban ddatapc35 DOXING BOTS
+/ban ddatapc36 DOXING BOTS
+/ban ddatapc37 DOXING BOTS
+/ban ddatapc38 DOXING BOTS
+/ban ddatapc39 DOXING BOTS
+/ban ddatapc40 DOXING BOTS
+/ban delteerdatapc DOXING BOTS
+/ban delteerdatap1 DOXING BOTS
+/ban delteerdatap2 DOXING BOTS
+/ban delteerdatap3 DOXING BOTS
+/ban delteerdatap4 DOXING BOTS
+/ban delteerdatap5 DOXING BOTS
+/ban delteerdatap6 DOXING BOTS
+/ban delteerdatap7 DOXING BOTS
+/ban delteerdatap8 DOXING BOTS
+/ban delteerdatap10 DOXING BOTS
+/ban delteerdatap11 DOXING BOTS
+/ban delteerdatap12 DOXING BOTS
+/ban delteerdatap13 DOXING BOTS
+/ban delteerdatap14 DOXING BOTS
+/ban delteerdatap15 DOXING BOTS
+/ban delteerdatap16 DOXING BOTS
+/ban delteerdatap17 DOXING BOTS
+/ban delteerdatap18 DOXING BOTS
+/ban delteerdatap19 DOXING BOTS
+/ban delteerdatap20 DOXING BOTS
+/ban delteerdatap21 DOXING BOTS
+/ban delteerdatap22 DOXING BOTS
+/ban delteerdatap23 DOXING BOTS
+/ban delteerdatap24 DOXING BOTS
+/ban delteerdatap25 DOXING BOTS
+/ban delteerdatap26 DOXING BOTS
+/ban delteerdatap27 DOXING BOTS
+/ban delteerdatap28 DOXING BOTS
+/ban delteerdatap29 DOXING BOTS
+/ban delteerdatap30 DOXING BOTS
+/ban delteerdatap31 DOXING BOTS
+/ban delteerdatap32 DOXING BOTS
+/ban delteerdatap33 DOXING BOTS
+/ban delteerdatap34 DOXING BOTS
+/ban delteerdatap35 DOXING BOTS
+/ban delteerdatap36 DOXING BOTS
+/ban delteerdatap37 DOXING BOTS
+/ban delteerdatap38 DOXING BOTS
+/ban delteerdatap39 DOXING BOTS
+/ban delteerdatap40 DOXING BOTS
+/ban MaybeLunr DOXING BOTS
