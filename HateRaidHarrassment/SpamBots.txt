@@ -8,7 +8,7 @@
 /ban goatfold CHAT SPAM BOTS
 /ban frameforkmvp CHAT SPAM BOTS
 /ban dawnnameless54 CHAT SPAM BOTS
-/ban Subs CHAT SPAM BOTS-Only Chat
+/ban Subs CHAT SPAM BOTS Chat
 /ban grantcaptionnoj CHAT SPAM BOTS
 /ban dew993 CHAT SPAM BOTS
 /ban batpunk741 CHAT SPAM BOTS
