@@ -11,7 +11,6 @@
 /ban dawnnameless54 CHAT SPAM BOTS
 /ban grantcaptionnoj CHAT SPAM BOTS
 /ban dew993 CHAT SPAM BOTS
-/ban batpunk741 CHAT SPAM BOTS
 /ban approvaluwn CHAT SPAM BOTS
 /ban cordkzw CHAT SPAM BOTS
 /ban host00312 CHAT SPAM BOTS
