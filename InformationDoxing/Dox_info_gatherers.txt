@@ -428,3 +428,4 @@
 /ban delteerdatap39 DOXING BOTS
 /ban delteerdatap40 DOXING BOTS
 /ban MaybeLunr DOXING BOTS
+/ban hoss00312______________ DOXING BOTS
