@@ -1,4 +1,5 @@
 # Bots known to spam your chat (not neccessarily hateful comments but attempt to take over chat)
+
 /ban juicescientific CHAT SPAM BOTS
 /ban cordkzw CHAT SPAM BOTS
 /ban cellarxl CHAT SPAM BOTS
@@ -8,16 +9,9 @@
 /ban goatfold CHAT SPAM BOTS
 /ban frameforkmvp CHAT SPAM BOTS
 /ban dawnnameless54 CHAT SPAM BOTS
-/ban Subs CHAT SPAM BOTS Chat
 /ban grantcaptionnoj CHAT SPAM BOTS
 /ban dew993 CHAT SPAM BOTS
 /ban batpunk741 CHAT SPAM BOTS
-/ban batpunk741 CHAT SPAM BOTS
-/ban batpunk741 CHAT SPAM BOTS
 /ban approvaluwn CHAT SPAM BOTS
-/ban cellarxl CHAT SPAM BOTS
 /ban cordkzw CHAT SPAM BOTS
-/ban cellarxl CHAT SPAM BOTS
-/ban cordkzw CHAT SPAM BOTS
-/ban cellarxl CHAT SPAM BOTS
 /ban host00312 CHAT SPAM BOTS
