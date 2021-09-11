@@ -1,1 +1,8 @@
 # Known FollowBot runners, accounts involved in FollowBotting
+
+## Accounts known for follow Bot links
+/ban alyson_franco FOLLOW BOT LINKS
+
+
+## Follow Bot banned terms
+dogehype .com dogehype.com* 
