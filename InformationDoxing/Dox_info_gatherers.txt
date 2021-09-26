@@ -696,8 +696,6 @@
 /ban hoss00312_queue DOXING BOT
 /ban hoss00312_quarter DOXING BOT
 /ban hoss00312_tired DOXING BOT
-
-
 /ban hoss00312_poised DOXING BOT
 /ban hoss00312_wacky DOXING BOT
 /ban hoss00312_letter DOXING BOT
