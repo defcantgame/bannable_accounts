@@ -1,3 +1,7 @@
+# Index
+- View Info/doxing to find the list of known doxing bots/follow bots
+- View hate raid to find known hate raid bots
+
 # bannable_accounts
 This repo is meant to be a place to report the bot accounts and help give you and idea of the naming conventions you may see as they will likely change. In the future I am working on building scripts to try to help you with active response on these kinds of attacks and automate the banning.
 
