@@ -848,3 +848,6 @@
 /ban gunz0_baseball DOXING BOT
 /ban gunz0_chubby DOXING BOT
 /ban gunz0_poison DOXING BOT
+/ban gunw6 DOXING BOT
+/ban gunu7 DOXING BOT
+/ban gunq2 DOXING BOT
